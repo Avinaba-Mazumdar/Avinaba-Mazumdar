@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+I'm Avinaba Mazumdar a Front-End Developer from Durgapur, India.
 
-**Avinaba-Mazumdar/Avinaba-Mazumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning REST APIs
