@@ -21,3 +21,5 @@ I'm Avinaba Mazumdar a Front-End Developer from Durgapur, India.
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinaba-Mazumdar&layout=compact&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=denvercoder1&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
