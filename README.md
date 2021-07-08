@@ -25,8 +25,8 @@ I'm Avinaba Mazumdar a Front-End Developer from Durgapur, India.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=denvercoder1&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
-
+<!-- 
 <br>
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Avinaba-Mazumdar/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Avinaba-Mazumdar/count.svg) -->
