@@ -3,8 +3,8 @@
 I'm Avinaba Mazumdar a Front-End Developer from Durgapur, India.
 
 
-- 🔭 I’m currently working on ReactJS and NodeJS
-- 🌱 I’m currently learning state management and NodeJS
+- 🔭 I’m currently working on web dev projects with ReactJS and DSA with C++
+- 🌱 I’m currently learning NodeJS and DSA
 - 😄 Pronouns: He/Him
 <!--
 - 👯 I’m looking to collaborate on ...
