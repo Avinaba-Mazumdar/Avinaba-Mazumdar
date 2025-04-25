@@ -13,8 +13,3 @@ I'm Avinaba Mazumdar a Front-End Developer from Durgapur, India.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<br>
-
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Avinaba-Mazumdar/count.svg)
