@@ -14,13 +14,20 @@ I'm Avinaba Mazumdar a Front-End Developer from Durgapur, India.
 - ⚡ Fun fact: ...
 -->
 
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Avinaba-Mazumdar/count.svg)
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avinaba-Mazumdar&show_icons=true&theme=radical&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ======= VISITOR COUNT ======= -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Avinaba-Mazumdar&label=Profile%20Views&color=0e76a8&style=flat-block" alt="Visitor Count" />
+</p>
 
-[![Avinaba's github activity graph](https://activity-graph.herokuapp.com/graph?username=avinaba-mazumdar&theme=rogue)](https://github.com/Avinaba-Mazumdar)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=denvercoder1&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinaba-Mazumdar&layout=compact&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Analytics
+
+#### 📈 Activity & Streaks
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinaba-Mazumdar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="43%" height="300" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinaba-Mazumdar&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="48%" height="300" />
+</p>
