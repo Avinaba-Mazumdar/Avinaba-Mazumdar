@@ -41,7 +41,7 @@ I'm Avinaba Mazumdar, a Mid-Senior Frontend Engineer.
   <thead>
     <tr>
       <th align="left">Language</th>
-      <th align="left">Proficiencies & Stack Distribution</th>
+      <th align="left">Stack Distribution</th>
     </tr>
   </thead>
   <tbody>
@@ -50,7 +50,7 @@ I'm Avinaba Mazumdar, a Mid-Senior Frontend Engineer.
       <td><b>TypeScript</b></td>
       <td>
         <img align="middle" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟦🟦🟦🟦🟦</sub>
+        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟦🟦🟦🟦</sub>
       </td>
     </tr>
     <!-- JavaScript -->
@@ -58,7 +58,7 @@ I'm Avinaba Mazumdar, a Mid-Senior Frontend Engineer.
       <td><b>JavaScript</b></td>
       <td>
         <img align="middle" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟨🟨🟨🟨🟨</sub>
+        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟨🟨🟨🟨</sub>
       </td>
     </tr>
     <!-- React & NextJS -->
@@ -67,7 +67,8 @@ I'm Avinaba Mazumdar, a Mid-Senior Frontend Engineer.
       <td>
         <img align="middle" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img align="middle" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟦⬛🟦⬛🟦⬛</sub>
+        <br/>
+        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟦⬛🟦⬛🟦</sub>
       </td>
     </tr>
     <!-- Hono.js -->
@@ -75,7 +76,7 @@ I'm Avinaba Mazumdar, a Mid-Senior Frontend Engineer.
       <td><b>Hono.js</b></td>
       <td>
         <img align="middle" src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
-        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟧🟧🟧</sub>
+        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟧🟧</sub>
       </td>
     </tr>
     <!-- Astro -->
@@ -83,15 +84,7 @@ I'm Avinaba Mazumdar, a Mid-Senior Frontend Engineer.
       <td><b>Astro</b></td>
       <td>
         <img align="middle" src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">◻️◻️◻️</sub>
-      </td>
-    </tr>
-    <!-- Svelte & SvelteKit -->
-    <tr>
-      <td><b>Svelte & SvelteKit</b></td>
-      <td>
-        <img align="middle" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
-        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟧🟧</sub>
+        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">◻️◻️</sub>
       </td>
     </tr>
     <!-- FastAPI -->
@@ -99,7 +92,15 @@ I'm Avinaba Mazumdar, a Mid-Senior Frontend Engineer.
       <td><b>FastAPI</b></td>
       <td>
         <img align="middle" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟩</sub>
+        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟩🟩</sub>
+      </td>
+    </tr>
+    <!-- Svelte & SvelteKit -->
+    <tr>
+      <td><b>Svelte & SvelteKit</b></td>
+      <td>
+        <img align="middle" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
+        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟧</sub>
       </td>
     </tr>
     <!-- HTML5 & CSS3/SCSS -->
@@ -109,6 +110,8 @@ I'm Avinaba Mazumdar, a Mid-Senior Frontend Engineer.
         <img align="middle" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img align="middle" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         <img align="middle" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SCSS&logoColor=white" alt="SCSS" />
+        <br/>
+        <sub style="font-size: 1.5em; vertical-align: middle; line-height: 1;">🟧🟦🟪🟧🟦</sub>
       </td>
     </tr>
   </tbody>
