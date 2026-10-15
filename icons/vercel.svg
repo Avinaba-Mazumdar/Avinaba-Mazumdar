@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg {
+        fill: #F2F4F7;
+        transition: fill 0.3s ease;
+      }
+      @media (prefers-color-scheme: dark) {
+        .bg {
+          fill: #2C333D;
+        }
+      }
+      .brand-mono {
+        fill: #111827;
+        color: #111827;
+      }
+      @media (prefers-color-scheme: dark) {
+        .brand-mono {
+          fill: #F9FAFB;
+          color: #F9FAFB;
+        }
+      }
+    </style>
+  </defs>
+  <rect width="100" height="100" rx="12" class="bg"/>
+  <svg x="18" y="18" width="64" height="64" viewBox="0 0 24 24" class="brand-mono">
+    <title>vercel-fill</title><path fill="currentColor" d="M23 21.648H1L12 2.352z"/>
+  </svg>
+</svg>
