@@ -14,7 +14,7 @@
 
 <br/>
 
-### 📊 GitHub Analytics & Activity
+### 📊 Analytics
 
 <h3 align="left">
   <img src="https://komarev.com/ghpvc/?username=Avinaba-Mazumdar&label=Profile%20Views&color=0e76a8&style=flat-block" alt="Visitor Count" />
@@ -27,28 +27,48 @@
 
 <br/>
 
-<table>
-<tbody>
-    <tr>
-        <td>Craft Kreate</td>
-        <td>Gym Sphere AI</td>
-    </tr>
-    <tr>
-        <td>Tabs Stack</td>
-        <td>Rlean UI</td>
-    </tr>
-    <tr>
-        <td>Bayes Market</td>
-        <td>Nexus Agent</td>
-    </tr>
-</tbody>
-</table>
+### 🚀 Featured
+
+<p align="center">
+  <a href="https://craftkreate.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/craftkreate-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="images/craftkreate-light.png">
+      <img src="images/craftkreate-light.png" alt="Craft Kreate" width="48%" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tabsstack.avinaba.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/tabsstack-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="images/tabsstack-light.png">
+      <img src="images/tabsstack-light.png" alt="Tabs Stack" width="48%" />
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://bayesmarket.avinaba.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/bayesmarket-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="images/bayesmarket-light.png">
+      <img src="images/bayesmarket-light.png" alt="Bayes Market" width="48%" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nexusagent.avinaba.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="images/nexusagent-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="images/nexusagent-light.png">
+      <img src="images/nexusagent-light.png" alt="Nexus Agent" width="48%" />
+    </picture>
+  </a>
+</p>
 
 ---
 
 <br/>
 
-### 🛠️ Tech Ecosystem
+### 🛠️ Ecosystem
 
 <table>
   <tbody>
