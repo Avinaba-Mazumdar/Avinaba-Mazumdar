@@ -30,7 +30,7 @@
 ### 🚀 Featured
 
 <p align="center">
-  <a href="https://craftkreate.com" target="_blank">
+  <a href="https://craftkreate.com" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="images/craftkreate-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="images/craftkreate-light.png">
@@ -38,7 +38,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://tabsstack.avinaba.com" target="_blank">
+  <a href="https://tabsstack.avinaba.com" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="images/tabsstack-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="images/tabsstack-light.png">
@@ -47,7 +47,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://bayesmarket.avinaba.com" target="_blank">
+  <a href="https://bayesmarket.avinaba.com" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="images/bayesmarket-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="images/bayesmarket-light.png">
@@ -55,7 +55,7 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://nexusagent.avinaba.com" target="_blank">
+  <a href="https://nexusagent.avinaba.com" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="images/nexusagent-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="images/nexusagent-light.png">
