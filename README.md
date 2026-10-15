@@ -1,27 +1,31 @@
-# ⚡ Avinaba Mazumdar
+# 🪶 Avinaba Mazumdar
 
-### Full-Stack & AI Systems Engineer (4+ YOE) | Shipping TypeScript, React/Next.js, Python/FastAPI & Agentic AI Systems.
+<h3>Full-Stack & AI Systems Engineer (4+ YOE)</h3>
+<h3>Shipping TypeScript, React/Next.js, Python/FastAPI & Agentic AI Systems.</h3>
+
+<br/>
 
 - 🔭 **Current Focus**: Designing and building full-stack agentic AI products.
 - 🚀 **Performance Mindset**: Low-latency APIs, reliable CI/CD, and zero-downtime releases.
 - 🌱 **Passively Exploring**: Web3 Infrastructure and Mobile Development.
 - 💬 **Ask Me About**: System Design and Agentic AI Workflows.
 
-<br/>
-
 ---
+
+<br/>
 
 ### 📊 GitHub Analytics & Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinaba-Mazumdar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" height="190" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avinaba-Mazumdar&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="49%" height="190" />
-</p>
-<p align="left">
+<h3 align="left">
   <img src="https://komarev.com/ghpvc/?username=Avinaba-Mazumdar&label=Profile%20Views&color=0e76a8&style=flat-block" alt="Visitor Count" />
+</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinaba-Mazumdar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" height="190" />
 </p>
 
 ---
+
+<br/>
 
 <table>
 <tbody>
@@ -42,6 +46,8 @@
 
 ---
 
+<br/>
+
 ### 🛠️ Tech Ecosystem
 
 <table>
@@ -49,13 +55,13 @@
     <tr>
       <td valign="top" width="180"><b>Languages & Standards</b></td>
       <td>
-        <img src="icons/typescript.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />&nbsp;
-        <img src="icons/javascript.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />&nbsp;
-        <img src="icons/python.svg" alt="Python" title="Python" width="36" height="36" />&nbsp;
-        <img src="icons/go.svg" alt="Go" title="Go" width="36" height="36" />&nbsp;
-        <img src="icons/java.svg" alt="Java" title="Java" width="36" height="36" />&nbsp;
         <img src="icons/html.svg" alt="HTML5" title="HTML5" width="36" height="36" />&nbsp;
         <img src="icons/css.svg" alt="CSS3" title="CSS3" width="36" height="36" />&nbsp;
+        <img src="icons/javascript.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />&nbsp;
+        <img src="icons/typescript.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />&nbsp;
+        <img src="icons/python.svg" alt="Python" title="Python" width="36" height="36" />&nbsp;
+        <img src="icons/java.svg" alt="Java" title="Java" width="36" height="36" />&nbsp;
+        <img src="icons/go.svg" alt="Go" title="Go" width="36" height="36" />&nbsp;
         <img src="icons/sql.svg" alt="SQL" title="SQL" width="36" height="36" />&nbsp;
         <img src="icons/json.svg" alt="JSON" title="JSON" width="36" height="36" />
       </td>
@@ -65,10 +71,10 @@
       <td>
         <img src="icons/react.svg" alt="React" title="React" width="36" height="36" />&nbsp;
         <img src="icons/next.svg" alt="Next.js" title="Next.js" width="36" height="36" />&nbsp;
+        <img src="icons/astro.svg" alt="Astro" title="Astro" width="36" height="36" />&nbsp;
         <img src="icons/vue.svg" alt="Vue.js" title="Vue.js" width="36" height="36" />&nbsp;
         <img src="icons/nuxt.svg" alt="Nuxt.js" title="Nuxt.js" width="36" height="36" />&nbsp;
         <img src="icons/svelte.svg" alt="Svelte" title="Svelte" width="36" height="36" />&nbsp;
-        <img src="icons/astro.svg" alt="Astro" title="Astro" width="36" height="36" />&nbsp;
         <img src="icons/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" />&nbsp;
         <img src="icons/tanstack.svg" alt="TanStack" title="TanStack" width="36" height="36" />&nbsp;
         <img src="icons/redux.svg" alt="Redux" title="Redux" width="36" height="36" />&nbsp;
@@ -88,8 +94,8 @@
         <img src="icons/expressjs.svg" alt="Express.js" title="Express.js" width="36" height="36" />&nbsp;
         <img src="icons/honojs.svg" alt="Hono.js" title="Hono.js" width="36" height="36" />&nbsp;
         <img src="icons/gin.svg" alt="Gin" title="Gin" width="36" height="36" />&nbsp;
-        <img src="icons/graphql.svg" alt="GraphQL" title="GraphQL" width="36" height="36" />&nbsp;
         <img src="icons/rest.svg" alt="REST API" title="REST API" width="36" height="36" />&nbsp;
+        <img src="icons/graphql.svg" alt="GraphQL" title="GraphQL" width="36" height="36" />&nbsp;
         <img src="icons/websocket.svg" alt="WebSockets" title="WebSockets" width="36" height="36" />&nbsp;
         <img src="icons/kafka.svg" alt="Apache Kafka" title="Apache Kafka" width="36" height="36" />&nbsp;
         <img src="icons/jwt.svg" alt="JWT" title="JWT" width="36" height="36" />&nbsp;
