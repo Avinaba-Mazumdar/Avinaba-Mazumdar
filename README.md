@@ -83,7 +83,9 @@
         <img src="icons/java.svg" alt="Java" title="Java" width="36" height="36" />&nbsp;
         <img src="icons/go.svg" alt="Go" title="Go" width="36" height="36" />&nbsp;
         <img src="icons/sql.svg" alt="SQL" title="SQL" width="36" height="36" />&nbsp;
-        <img src="icons/json.svg" alt="JSON" title="JSON" width="36" height="36" />
+        <img src="icons/json.svg" alt="JSON" title="JSON" width="36" height="36" />&nbsp;
+        <img src="icons/xml.svg" alt="XML" title="XML" width="36" height="36" />&nbsp;
+        <img src="icons/yaml.svg" alt="YAML" title="YAML" width="36" height="36" />
       </td>
     </tr>
     <tr>
@@ -95,6 +97,7 @@
         <img src="icons/vue.svg" alt="Vue.js" title="Vue.js" width="36" height="36" />&nbsp;
         <img src="icons/nuxt.svg" alt="Nuxt.js" title="Nuxt.js" width="36" height="36" />&nbsp;
         <img src="icons/svelte.svg" alt="Svelte" title="Svelte" width="36" height="36" />&nbsp;
+        <img src="icons/angular.svg" alt="Angular" title="Angular" width="36" height="36" />&nbsp;
         <img src="icons/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" />&nbsp;
         <img src="icons/tanstack.svg" alt="TanStack" title="TanStack" width="36" height="36" />&nbsp;
         <img src="icons/redux.svg" alt="Redux" title="Redux" width="36" height="36" />&nbsp;
@@ -119,6 +122,7 @@
         <img src="icons/websocket.svg" alt="WebSockets" title="WebSockets" width="36" height="36" />&nbsp;
         <img src="icons/kafka.svg" alt="Apache Kafka" title="Apache Kafka" width="36" height="36" />&nbsp;
         <img src="icons/jwt.svg" alt="JWT" title="JWT" width="36" height="36" />&nbsp;
+        <img src="icons/oauth.svg" alt="OAuth 2.0" title="OAuth 2.0" width="36" height="36" />&nbsp;
         <img src="icons/zod.svg" alt="Zod" title="Zod" width="36" height="36" />&nbsp;
         <img src="icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />&nbsp;
         <img src="icons/mysql.svg" alt="MySQL" title="MySQL" width="36" height="36" />&nbsp;
@@ -168,10 +172,12 @@
         <img src="icons/vitest.svg" alt="Vitest" title="Vitest" width="36" height="36" />&nbsp;
         <img src="icons/pytest.svg" alt="Pytest" title="Pytest" width="36" height="36" />&nbsp;
         <img src="icons/playwright.svg" alt="Playwright" title="Playwright" width="36" height="36" />&nbsp;
+        <img src="icons/postman.svg" alt="Postman" title="Postman" width="36" height="36" />&nbsp;
+        <img src="icons/bruno.svg" alt="Bruno" title="Bruno" width="36" height="36" />&nbsp;
         <img src="icons/stripe.svg" alt="Stripe" title="Stripe" width="36" height="36" />&nbsp;
         <img src="icons/razorpay.svg" alt="Razorpay" title="Razorpay" width="36" height="36" />&nbsp;
         <img src="icons/dodopayments.svg" alt="Dodo Payments" title="Dodo Payments" width="36" height="36" />&nbsp;
-        <img src="icons/supabase.svg" alt="Supabase" title="Supabase" width="36" height="36" />
+        <img src="icons/supabase.svg" alt="Supabase" title="Supabase" width="36" height="36" />&nbsp;
         <img src="icons/appwrite.svg" alt="Appwrite" title="Appwrite" width="36" height="36" />&nbsp;
         <img src="icons/sanity.svg" alt="Sanity CMS" title="Sanity CMS" width="36" height="36" />&nbsp;
         <img src="icons/strapi.svg" alt="Strapi CMS" title="Strapi CMS" width="36" height="36" />&nbsp;
@@ -180,6 +186,7 @@
         <img src="icons/gitlab.svg" alt="GitLab" title="GitLab" width="36" height="36" />&nbsp;
         <img src="icons/bitbucket.svg" alt="Bitbucket" title="Bitbucket" width="36" height="36" />&nbsp;
         <img src="icons/vscode.svg" alt="VS Code" title="VS Code" width="36" height="36" />&nbsp;
+        <img src="icons/cursor.svg" alt="Cursor" title="Cursor" width="36" height="36" />&nbsp;
         <img src="icons/antigravity.svg" alt="Antigravity" title="Antigravity" width="36" height="36" />&nbsp;
         <img src="icons/prettier.svg" alt="Prettier" title="Prettier" width="36" height="36" />&nbsp;
         <img src="icons/oxlint.svg" alt="Oxlint" title="Oxlint" width="36" height="36" />&nbsp;
